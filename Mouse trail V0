@@ -1,3 +1,6 @@
+//This is a program which creates a mouse trail! You can also create other kinds of trails with it!
+//By time-bender (CodeMasterX on processing forum) 16.12.2020
+
 ArrayList<Float> x = new ArrayList<Float>();
 ArrayList<Float> y = new ArrayList<Float>();
 ArrayList<Float> age = new ArrayList<Float>();
